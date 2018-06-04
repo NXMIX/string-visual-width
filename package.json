@@ -1,9 +1,10 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "string-visual-width",
   "description": "Get the visual width of the string",
   "main": "dist/index.js",
   "typings": "dist/types/index.d.ts",
+  "repository": "https://github.com/NXMIX/string-visual-width.git",
   "files": [
     "dist"
   ],
