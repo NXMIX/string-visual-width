@@ -1,8 +1,8 @@
 # string-visual-width
 
-[![Build Status](https://travis-ci.org/NXMIX/string-visual-width.svg?branch=master)](https://travis-ci.org/NXMIX/{{NAME}})
-[![Coverage Status](https://coveralls.io/repos/github/NXMIX/string-visual-width/badge.svg)](https://coveralls.io/github/NXMIX/{{NAME}})
-[![npm](https://img.shields.io/npm/v/string-visual-width.svg?maxAge=1000)](https://www.npmjs.com/package/{{NAME}}/)
+[![Build Status](https://travis-ci.org/NXMIX/string-visual-width.svg?branch=master)](https://travis-ci.org/NXMIX/string-visual-width)
+[![Coverage Status](https://coveralls.io/repos/github/NXMIX/string-visual-width/badge.svg)](https://coveralls.io/github/NXMIX/string-visual-width)
+[![npm](https://img.shields.io/npm/v/string-visual-width.svg?maxAge=1000)](https://www.npmjs.com/package/@nxmix/string-visual-width/)
 
 > Get the visual width of the string 
 
