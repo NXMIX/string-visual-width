@@ -1,6 +1,6 @@
 {
   "version": "0.1.1",
-  "name": "string-visual-width",
+  "name": "@nxmix/string-visual-width",
   "description": "Get the visual width of the string",
   "main": "dist/index.js",
   "typings": "dist/types/index.d.ts",
