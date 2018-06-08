@@ -60,7 +60,9 @@
       "js"
     ],
     "coveragePathIgnorePatterns": [
-      "emoji-sequences",
+      "/coverage/",
+      "/dist/",
+      "/tools/",
       "/node_modules/",
       "/test/"
     ],
