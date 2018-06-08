@@ -14,7 +14,7 @@ const stringWidth = (str: string) => {
       // Jonied emojis are counted as 2
       visuelWidth += 2;
     } else {
-      visuelWidth += isFullWidth(arr[i].codePointAt(0)) ? 2 : 1;
+      visuelWidth += isFullWidth(arr[i].codePointAt(0)!) ? 2 : 1;
     }
   }
   return visuelWidth;
