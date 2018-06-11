@@ -99,7 +99,7 @@
     "validate-commit-msg": "^2.14.0"
   },
   "dependencies": {
-    "@nxmix/emoji-seq-match": "^0.1.0",
+    "@nxmix/emoji-seq-match": "^1.0.0",
     "@nxmix/is-full-width": "^0.1.0",
     "strip-ansi": "^4.0.0"
   },

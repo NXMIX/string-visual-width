@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/NXMIX/string-visual-width.svg?branch=master)](https://travis-ci.org/NXMIX/string-visual-width)
 [![Coverage Status](https://coveralls.io/repos/github/NXMIX/string-visual-width/badge.svg)](https://coveralls.io/github/NXMIX/string-visual-width)
-[![npm](https://img.shields.io/npm/v/string-visual-width.svg?maxAge=1000)](https://www.npmjs.com/package/@nxmix/string-visual-width/)
+[![npm](https://img.shields.io/npm/v/string-visual-width.svg?maxAge=1000)](https://www.npmjs.com/package/@nxmix/string-visual-width/) [![Greenkeeper badge](https://badges.greenkeeper.io/NXMIX/string-visual-width.svg)](https://greenkeeper.io/)
 
 > Get the visual width of the string 
 
