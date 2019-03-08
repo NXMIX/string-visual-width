@@ -101,7 +101,7 @@
   "dependencies": {
     "@nxmix/emoji-seq-match": "^1.0.0",
     "@nxmix/is-full-width": "^0.1.0",
-    "strip-ansi": "^4.0.0"
+    "strip-ansi": "^5.1.0"
   },
   "keywords": [
     "string",
