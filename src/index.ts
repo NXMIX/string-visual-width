@@ -1,7 +1,7 @@
 // Packages
 import matchEmoji from "@nxmix/emoji-seq-match";
 import isFullWidth from "@nxmix/is-full-width";
-import stripAnsi = require("strip-ansi");
+import stripAnsi from "strip-ansi";
 
 const stringWidth = (str: string) => {
   let visuelWidth = 0;
